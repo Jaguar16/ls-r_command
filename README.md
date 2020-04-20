@@ -6,7 +6,7 @@ $ ls -r
 ```
 Affiche tous les fichiers du répertoire courant et de ses sous-répertoires dont le nom vérifie
 un motif donné.
-La recherche est parallèlisé pour gagner en efficacité (un proccesus par sous-répertoires)
+La recherche est parallèlisée pour gagner en efficacité (un proccesus par sous-répertoires)
 
 ### Utilisation
 
