@@ -37,6 +37,8 @@ test2/fichier3/toto2_3.txt
 test1/fichier3/toto3.txt
 test3/fichier2/toto3_2.txt
 test1/fichier2/toto2.txt
+```
+```sh
 $ python3 rls.py toto* -first_match
 test1/fichier3/toto3.txt
 ```
