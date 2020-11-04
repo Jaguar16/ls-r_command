@@ -24,7 +24,7 @@ $ python3 rls.py FILENAME [OPTIONS] ...
 
 ### Exemple
 
-Avec les dossiers test du repos :
+Avec les dossiers test du repo :
 
 ```sh
 $ python3 rls.py toto*
