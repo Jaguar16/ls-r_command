@@ -14,7 +14,7 @@ La recherche est parallèlisée pour gagner en efficacité (un proccesus par sou
 $ python3 rls.py FILENAME [OPTIONS] ...
 ```
 - FILENAME : motif recherché (gère les wildcards)
-- option : -first_match ou -server ou -debug
+- option : `-first_match` ou `-server` ou `-debug`
 
 | option | description |
 | ------ | ------ |
